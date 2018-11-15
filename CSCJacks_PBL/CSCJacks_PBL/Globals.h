@@ -4,9 +4,10 @@
 //Included Lib - Stori
 #include <iostream>
 #include <string>
+#include <fstream>
 
 //Using statement - Stori
 using namespace std;
 
 
-#endif
+#endif // !GLOBALS__H
