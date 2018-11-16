@@ -346,4 +346,4 @@ void ReadFileForList()
 #endif // !LINKINGLIST__H
 
 
-/*TODO: Change code that was originally with previous program to fit information in new program*/
+/*TODO: Change code that was originally with previous program to fit information in new program (continue)*/
