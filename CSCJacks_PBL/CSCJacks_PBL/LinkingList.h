@@ -99,14 +99,14 @@ void DeleteLink(); //Purpose: Deletes a link from the link list
 //
 //
 //};
-//void CreateNewLinkList()
-//{
-//	//Create a new start link
-//	startLink = new Link;
-//
-//	//Set content and ptrto's values to nothing/null
-//	startLink = NULL;
-//};
+void CreateNewLinkList()
+{
+	//Create a new start link
+	startLink = new Link;
+
+	//Set content and ptrto's values to nothing/null
+	startLink = NULL;
+};
 //void AddToList()  
 //{
 //	Ship contentObject; //Create a new object
